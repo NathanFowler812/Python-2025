@@ -34,7 +34,7 @@ def FibSequence(n):
     
 
     for i in range(n):
-        print(Sequence[i])
+        print("n0", Sequence[i])
     
 
 
